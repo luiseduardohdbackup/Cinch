@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="5EC946A1-2D6D-4622-927C-66537339DBEB/d:Views/f:AddEditCustomerView.xaml" caret="7753" fromTop="30" />
+      <File id="5EC946A1-2D6D-4622-927C-66537339DBEB/f:App.config" caret="362" fromTop="16" />
+      <File id="8EC791D4-65EC-4FA8-ADDE-151F13A74554/f:app.config" caret="0" fromTop="0" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:AttachedBehaviours/f:LifetimeEvent.cs" caret="0" fromTop="0" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="9454" fromTop="266" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="5EC946A1-2D6D-4622-927C-66537339DBEB/d:Views/f:AddEditCustomerView.xaml" caret="7753" fromTop="30" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="14429" fromTop="30" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="14545" fromTop="34" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="12556" fromTop="23" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="12674" fromTop="28" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="11549" fromTop="210" />
+      <File id="6DB457F0-C6B4-4268-8304-4F5B586E50FF/d:ViewModels/d:Bases/f:ViewModelBase.cs" caret="10755" fromTop="42" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="0" />
+      <Item value="ConfigurationException" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
